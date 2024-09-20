@@ -1,0 +1,29 @@
+/* .container{
+    /* height: 100px; */
+    /* background-color: lightblue;
+    margin-top: 2px;
+    position: relative;
+
+} *
+/* p{
+    width:50%
+
+} */
+body{
+
+    height: 100vh;
+    width: 100vh;
+  
+    overflow: hidden;
+
+ }
+
+#canvas{
+    background-color: aqua;
+    height: 100vh;
+    width: 100vh;
+    stroke-width:25px;
+
+
+
+}
